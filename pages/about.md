@@ -5,11 +5,8 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+This website is an outlet for the work of students in LIS 9372A 650: DH and Library and Information Science, taught at Western University in Fall 2022.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+The site will feature two types of student work: tool reviews and documentation.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
-
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+More to come. 
