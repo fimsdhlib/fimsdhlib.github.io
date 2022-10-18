@@ -1,13 +1,13 @@
 title: "fimsdhlib"
-email: wowthemesnet@gmail.com
+email: murgucal@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Cal
 paginate: 30
-disqus: 'demowebsite'
+disqus: ''
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -32,6 +32,14 @@ authors:
     web: calmurgu.com
     twitter: https://twitter.com/calmurgu
     description: "Instructor, Librarian, Person"
+  Ryan:
+    name: Ryan
+    display_name: Ryan
+    avatar: 'assets/images/man.png'
+    email: murgucal@gmail.com
+    web: calmurgu.com
+    twitter: https://twitter.com/calmurgu
+    description: "Student"
 # Social
 social:
   instagram: 
