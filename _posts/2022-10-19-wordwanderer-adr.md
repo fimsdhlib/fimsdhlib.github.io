@@ -59,7 +59,7 @@ hover over terms to highlight the collocated ones, users cannot see the strength
 While the Dörk and Knight (2015) identified this as an issue to be resolved, its persistence in the current
 prototype makes navigating a crowded result page challenging. 
 
-<img src="../assets/images/aorr-1.png">
+<img src="https://github.com/fimsdhlib/fimsdhlib.github.io/blob/main/assets/images/aorr-1.PNG?raw=true">
 <sup>Figure 1. Examples of overlapping terms, where seeing and selecting an individual one is difficult or impossible.</sup>
 
 Once the visualization has loaded, the user may toggle options to show or hide common words, various
@@ -73,7 +73,7 @@ or manipulate data: for example, my trial text’s most strongly associated word
 take, and taken, a clear example of the value of lemmatization. Users can also consider whether the best
 strategies to improve their visualizations are found in adjusting the text before or after it is outputted.
 
-<img src="../assets/images/aorr-2.png">
+<img src="https://github.com/fimsdhlib/fimsdhlib.github.io/blob/main/assets/images/aorr-2.PNG?raw=true">
 <sup>Figure 2. Despite common words and punctuation toggled off, “The appears as a top term; with spaces
 around special characters in the original text, em dashes and curled quotation marks remained.</sup>
 
