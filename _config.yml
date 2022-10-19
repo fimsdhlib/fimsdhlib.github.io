@@ -34,11 +34,35 @@ authors:
     description: "Instructor, Librarian, Person"
   Ryan:
     name: Ryan
-    display_name: Ryan
+    display_name: Ryan Rivando
     avatar: 'assets/images/man.png'
     email: ""
     web: ""
     twitter: https://twitter.com/rrrivando
+    description: "Student"
+  Toby:
+    name: Toby Malone
+    display_name: Toby Malone
+    avatar: 'assets/images/man.png'
+    email: ""
+    web: ""
+    twitter: ""
+    description: "Student"
+  Emily:
+    name: Emily McKibbon
+    display_name: Emily
+    avatar: 'assets/images/woman.png'
+    email: ""
+    web: ""
+    twitter: ""
+    description: "Student"
+  Adrienne:
+    name: Adrienne
+    display_name: Adrienne Orr
+    avatar: 'assets/images/woman.png'
+    email: ""
+    web: ""
+    twitter: ""
     description: "Student"
 # Social
 social:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lorem ipsum dolor sit amet, consecuteur"
+title:  "Documentation Example"
 categories: [ DH, documentation ]
 image: assets/images/5.jpg
 author: Cal
