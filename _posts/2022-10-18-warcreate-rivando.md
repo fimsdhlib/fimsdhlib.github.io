@@ -39,7 +39,7 @@ to do a considerable amount of research and troubleshooting to find its potentia
 by downloading [WARCreate](http://warcreate.com/) and installing it in my Chrome browser. This step is very intuitive
 and requires little technical knowledge. From this point, the process of creating a WARC file
 of your chosen webpage is as straightforward as clicking the chrome extension shortcut and
-then clicking the Generate WARC button that pops up. One gripe I have is that there are no
+then clicking the <emph>Generate WARC</emph> button that pops up. One gripe I have is that there are no
 progress indicators that establish the application is working. The application’s process of
 creating the WARC file is not instantaneous which sometimes results in 30+ seconds of no
 apparent action until the file begins to download. In the beginning, this left me wondering if

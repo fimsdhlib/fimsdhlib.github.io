@@ -69,12 +69,12 @@ These toggles are limited compared with the sophisticated options for preparing 
 available in tools such as Lexos. However, having these simple filters available only after the text is
 visualized can be an advantage for using WordWanderer as a teaching and learning tool. Apparent
 mistakes or a word cloud dominated by irrelevant or redundant terms can demonstrate how to prepare
-or manipulate data: for example, my trial text’s most strongly associated words with place were took,
-take, and taken, a clear example of the value of lemmatization. Users can also consider whether the best
+or manipulate data: for example, my trial text’s most strongly associated words with <emph>place</emph> were <emph>took</emph>,
+<emph>take</emph>, and <emph>taken</emph>, a clear example of the value of lemmatization. Users can also consider whether the best
 strategies to improve their visualizations are found in adjusting the text before or after it is outputted.
 
 <img src="https://github.com/fimsdhlib/fimsdhlib.github.io/blob/main/assets/images/aorr-2.PNG?raw=true">
-<sup>Figure 2. Despite common words and punctuation toggled off, “The appears as a top term; with spaces
+<sup>Figure 2. Despite common words and punctuation toggled off, <emph>The</emph> appears as a top term; with spaces
 around special characters in the original text, em dashes and curled quotation marks remained.</sup>
 
 While WordWanderer uses the same analytic techniques as more sophisticated tools, like frequency
