@@ -35,7 +35,7 @@ authors:
   Ryan:
     name: Ryan
     display_name: Ryan Rivando
-    avatar: 'assets/images/man.png'
+    avatar: 'assets/images/bot.png'
     email: ""
     web: ""
     twitter: https://twitter.com/rrrivando
@@ -43,7 +43,7 @@ authors:
   Toby:
     name: Toby Malone
     display_name: Toby Malone
-    avatar: 'assets/images/man.png'
+    avatar: 'assets/images/bot.png'
     email: ""
     web: ""
     twitter: ""
@@ -51,7 +51,7 @@ authors:
   Emily:
     name: Emily McKibbon
     display_name: Emily
-    avatar: 'assets/images/woman.png'
+    avatar: 'assets/images/bot.png'
     email: ""
     web: ""
     twitter: ""
@@ -59,7 +59,7 @@ authors:
   Adrienne:
     name: Adrienne
     display_name: Adrienne Orr
-    avatar: 'assets/images/woman.png'
+    avatar: 'assets/images/bot.png'
     email: ""
     web: ""
     twitter: ""
@@ -67,7 +67,15 @@ authors:
   Kaeleigh:
     name: Kaeleigh
     display_name: Kaeleigh MacPhail
-    avatar: 'assets/images/woman.png'
+    avatar: 'assets/images/bot.png'
+    email: ""
+    web: ""
+    twitter: ""
+    description: "Student"
+  Tash:
+    name: Tash
+    display_name: Tash Hawrychuk
+    avatar: 'assets/images/bot.png'
     email: ""
     web: ""
     twitter: ""
