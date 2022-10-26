@@ -64,6 +64,14 @@ authors:
     web: ""
     twitter: ""
     description: "Student"
+  Kaeleigh:
+    name: Kaeleigh
+    display_name: Kaeleigh MacPhail
+    avatar: 'assets/images/woman.png'
+    email: ""
+    web: ""
+    twitter: ""
+    description: "Student"
 # Social
 social:
   instagram: 
