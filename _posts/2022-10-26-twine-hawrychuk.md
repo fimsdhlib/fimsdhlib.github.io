@@ -31,9 +31,11 @@ Twine primarily works by writing text passages with can then be linked on a grid
 Other UI features include a colour-coded tagging system for easy navigation, a CSS stylesheet, and a javascript window for adding custom functions.
 
 <img src="https://github.com/fimsdhlib/fimsdhlib.github.io/blob/main/assets/images/thawk-1.PNG?raw=true">
+
 <sup>Figure 1. Twine UI of a new story with linked passages.</sup>
 
 <img src="https://github.com/fimsdhlib/fimsdhlib.github.io/blob/main/assets/images/thawk-2.PNG?raw=true">
+
 <sup>Figure 2. A passage with a mix of HTML, Sugarcube variables, and basic text.</sup>
 
 The most trouble I had at this early stage was parsing the difference between Twine’s four custom coding languages – Harlowe, Chapbook, Snowman, Sugarcube - and deciding which to use. Twine’s reference guides do not explain the languages well and only give a few bare bones examples. After much research, I learned that Harlowe and Chapbook mainly support basic functions while Sugarcube allows for more complexity and the use of macros. Since all the community resources I came across use Sugarcube, that’s the language I ultimately used. (The elusive Snowman remains a mystery).
@@ -54,8 +56,8 @@ Unfortunately, the find and replace tool was not advanced enough for confident o
 
 ## Example
 
-<div class="twine">
-    <iframe src="https://github.com/fimsdhlib/fimsdhlib.github.io/blob/main/assets/int/tash-twine.html" height="700px" width="100%" allowfullscreen="" frameborder="0">
+<div>
+    <iframe src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/int/tash-twine.html" height="700px" width="100%" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
 
