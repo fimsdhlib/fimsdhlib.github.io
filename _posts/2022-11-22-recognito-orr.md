@@ -130,28 +130,28 @@ authoritative lists (Simon et al, 2017, p. 13), it seems this feature is not cur
 
 ### Appendix: Musical Annotations
 
-<img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/orr-1.png">
+<img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/orr-1.PNG">
 
 <sup>Fig.1  Places identified through the named entity recognition engine run on the lyrics to "I've Been
 Everywhere Man" by Stompin' Tom Connors. </sup>
 
-<img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/orr-2.png">
+<img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/orr-2.PNG">
 
 <sup>Fig.2 Places verified manually show all the known locations that Stompin' Tom Connors claims to
 have been, man.</sup>
 
-<img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/orr-3.png">
+<img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/orr-3.PNG">
 
 <sup>Fig.3 The transcribers of the lyrics (Musixmatch, n.d.) could not keep up with Stompin' Tom and conflated two
 locations into a third nonsensical one. Multiple place annotations can be included, and a comment added for
 clarification.</sup>
 
-<img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/orr-4.png">
+<img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/orr-4.PNG">
 
 <sup>Fig.4 Marking directional relationships between terms with customized tags.</sup>
 
 
-<img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/orr-5.png">
+<img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/orr-5.PNG">
 
 <sup>Fig. 5 With no matching location in the gazetteers for Schreiber, it cannot be marked on the map.
 Flagging the location allows the creation of an unverified annotation and notes made in the comment
