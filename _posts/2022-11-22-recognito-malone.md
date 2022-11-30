@@ -64,7 +64,11 @@ Use cases for this product would include digital editorial work and tagging of n
 ## Works Cited
 
 “Recogito: About.” https://recogito.pelagios.org/help/about 
+
 “Recogito: Activities.” https://pelagios.org/activities/ 
+
 “Recogito: Frequently Asked Questions.” https://recogito.pelagios.org/help/faq 
+
 “Recogito: Github.” https://github.com/pelagios/recogito2 
+
 Shakespeare, William. The Internet Shakespeare Editions. https://internetshakespeare.uvic.ca/  
