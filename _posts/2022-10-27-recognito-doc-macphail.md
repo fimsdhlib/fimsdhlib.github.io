@@ -128,7 +128,7 @@ Recogito can be accessed at: <a href="https://recogito.pelagios.org/">https://re
 
 <h4>Annotation Statistics</h4>
 <p>Annotation statistics will give you an insight into activity levels, entities such as Places, and tag use within the document.</p>
-  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-9.png">
+  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-8.png">
 
 <sup>Fig.8 Dashboard</sup>
 
@@ -155,7 +155,7 @@ This example will demonstrate how to use NER in Recogito. We will start by uploa
 <ol>
 <li>In your personal workspace, click the New button then select From RISE Repository.</li>
 <li>Scroll down and click on the MPIWG – A Multilingual Data Set of Novels collection.</li>
-<li>Type “pride” into the search bar and click Search. <br>  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-8.png"></li>
+<li>Type “pride” into the search bar and click Search. <br>  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-9.png"></li>
 <li>Select the resource named “Prideand Prejudice” and check the box under Sections. Click the Load button in the upper right corner. It may take several minutes to upload.</li>
 <li>Once uploaded, the new text file will appear under My Documents. Click it once to select it and open the Options drop-down menu. Choose Named Entity Recognition.<br><img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-10.png"></li>
 <li>For the purposes of this example, we will use the Stanford CoreNLP (en) engine to perform the NER analysis. Select it from the list of Recognition Engines then scroll down and click Start NER. This may take several minutes.</li>
