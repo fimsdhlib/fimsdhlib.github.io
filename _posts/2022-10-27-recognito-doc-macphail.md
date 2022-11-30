@@ -128,13 +128,9 @@ Recogito can be accessed at: <a href="https://recogito.pelagios.org/">https://re
 
 <h4>Annotation Statistics</h4>
 <p>Annotation statistics will give you an insight into activity levels, entities such as Places, and tag use within the document.</p>
-  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-8.png">
+  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-9.png">
 
 <sup>Fig.8 Dashboard</sup>
-
-<p>You can click on Map view to view all the annotated Places on the map.</p>
-
-  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-7.png">
 
   <h4>Download Options</h4>
 <p>Annotations and geo-located places can be downloaded in a variety of formats, including CSV, JSON-LD, RDF/Turtle, RDF/XML, GeoJSON, KML, TEI/XML, Markdown, IOB, and Spacy. Note, some of these exporters are currently in a beta phase.</p>
@@ -161,9 +157,9 @@ This example will demonstrate how to use NER in Recogito. We will start by uploa
 <li>Scroll down and click on the MPIWG – A Multilingual Data Set of Novels collection.</li>
 <li>Type “pride” into the search bar and click Search. <br>  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-8.png"></li>
 <li>Select the resource named “Prideand Prejudice” and check the box under Sections. Click the Load button in the upper right corner. It may take several minutes to upload.</li>
-<li>Once uploaded, the new text file will appear under My Documents. Click it once to select it and open the Options drop-down menu. Choose Named Entity Recognition.<br><img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-9.png"></li>
+<li>Once uploaded, the new text file will appear under My Documents. Click it once to select it and open the Options drop-down menu. Choose Named Entity Recognition.<br><img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-10.png"></li>
 <li>For the purposes of this example, we will use the Stanford CoreNLP (en) engine to perform the NER analysis. Select it from the list of Recognition Engines then scroll down and click Start NER. This may take several minutes.</li>
-<li>Once the analysis is complete, double-click on the Pride and Prejudice text file to open it. Approximately 4184 annotations should be added, including names of people and places. Scroll down the document and select an annotation to view its details. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-10.png"></li>
+<li>Once the analysis is complete, double-click on the Pride and Prejudice text file to open it. Approximately 4184 annotations should be added, including names of people and places. Scroll down the document and select an annotation to view its details. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-11.png"></li>
 
 </ol>
 
@@ -176,12 +172,12 @@ This example will demonstrate how to use NER in Recogito. We will start by uploa
 <li>In your workspace, double-click the Pride and Prejudice text file under My Documents to open it.</li>
 <li>On your keyboard, press CTRL+F and type “Lizzy” into the search box. Go to the first instance of the name.</li>
 <li>In the Annotation mode bar, select Relations.</li>
-<li>Select the first instance of “Lizzy” then select the name “Jane”. Type “Sisters” into the box that appears. Click the checkmark to save. <br><img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-11.png"></li>
+<li>Select the first instance of “Lizzy” then select the name “Jane”. Type “Sisters” into the box that appears. Click the checkmark to save. <br><img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-12.png"></li>
 <li>In the main navigation bar, choose Download options.</li>
 <li>Scroll down and download the Basic CSV file under the Relations heading.</li>
 <li>Open Gephi. Select File > Open and navigate to the downloaded CSV file to open it.</li>
-<li>In the import menu, click Next and Finish. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-12.png"></li>
-<li>The network showing the relationship between Lizzy and Jane will appear in the window. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-13.png"></li>
+<li>In the import menu, click Next and Finish. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-13.png"></li>
+<li>The network showing the relationship between Lizzy and Jane will appear in the window. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-14.png"></li>
 
 </ol>
 
