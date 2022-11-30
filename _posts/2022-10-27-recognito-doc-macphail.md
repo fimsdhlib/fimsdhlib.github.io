@@ -2,7 +2,7 @@
 layout: post
 title:  "Documentation: Recognito"
 categories: [ DH, documentation, recognito ]
-image: assets/images/5.jpg
+image: assets/images/1.jpg
 author: Kaeleigh
 
 ---
