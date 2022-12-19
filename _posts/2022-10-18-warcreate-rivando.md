@@ -2,7 +2,7 @@
 layout: post
 title:  "Tool Review: WARCreate"
 categories: [ DH, tutorial, web archives, WARCreate, WARC ]
-image: assets/images/1.jpg
+image: assets/images/2.png
 author: Ryan
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Tool Review: ArtSteps"
 categories: [ DH, tutorial, artsteps, exhibit, VR ]
-image: assets/images/1.jpg
+image: assets/images/6.png
 author: Kaeleigh
 
 ---

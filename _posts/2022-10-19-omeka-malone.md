@@ -2,7 +2,7 @@
 layout: post
 title:  "Tool Review: Omeka"
 categories: [ DH, tutorial, Omeka, exhibits, content management systems ]
-image: assets/images/5.jpg
+image: assets/images/3.png
 author: Toby
 
 ---

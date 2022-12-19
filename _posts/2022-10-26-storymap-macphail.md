@@ -2,7 +2,7 @@
 layout: post
 title:  "Tool Review: StoryMap JS"
 categories: [ DH, tutorial, story map, geographical narrative, GIS ]
-image: assets/images/1.jpg
+image: assets/images/4.png
 author: Kaeleigh
 
 ---

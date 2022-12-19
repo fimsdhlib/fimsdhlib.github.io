@@ -2,7 +2,7 @@
 layout: post
 title:  "Documentation: Recogito"
 categories: [ DH, documentation, recogito ]
-image: assets/images/1.jpg
+image: assets/images/8.png
 author: Kaeleigh
 
 ---

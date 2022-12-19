@@ -2,7 +2,7 @@
 layout: post
 title:  "Tool Review: WordWanderer"
 categories: [ DH, tutorial, wordwanderer, text analysis ]
-image: assets/images/3.jpg
+image: assets/images/1.png
 author: Adrienne
 
 ---

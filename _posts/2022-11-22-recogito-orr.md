@@ -2,7 +2,7 @@
 layout: post
 title:  "Tool Review: Recogito"
 categories: [ DH, tutorial, recogito, gazetteer, ner ]
-image: assets/images/3.jpg
+image: assets/images/7.png
 author: Adrienne
 
 ---
