@@ -118,7 +118,7 @@ h3 {
   <p>Add a shortcut to your Drive: File> Add a shortcut to Drive> Select the location in Drive and click Add Shortcut.</p>
 
   <p>Make a copy to edit: File> Make a copy> Change the file name, select the folder you want to save it in and click Make a copy.</p>
-  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/rivando-2-1.png">
+  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/rivando-2-1.PNG">
   <p>This is now the file that you can use for this project. Each time you start a new project make a copy of
 the original and rename it.</p>
 
@@ -128,7 +128,7 @@ that pertain to the map or timeline. In this example, only the Title and Locatio
 creating a basic map with pinned locations.</p>
 
 <p>See the spreadsheet we will use below.</p>
-  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/rivando-2-2.png">
+  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/rivando-2-2.PNG">
 <p>For historic sites, research may be needed to find accurate geographic information. For this project,
 the coordinates were found on Wikipedia. The simplest way to find most modern coordinates is via
 Google Maps. See below.</p>
@@ -139,14 +139,14 @@ Google Maps. See below.</p>
 coordinates are now copied.</li>
 <li>Paste them into the spreadsheet under the Location column.</li>
 </ol>
-  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/rivando-2-3.png">
+  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/rivando-2-3.PNG">
 
 <p>Once data input is complete it is time to prepare for uploading the spreadsheet to TimeMapper. First,
 you need to publish the spreadsheet to the web. This will make the data in the spreadsheet viewable
 by TimeMapper.</p>
 
 <p>To do this: File> Share> Publish to web> click Publish> then copy the link provided.</p>
-  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/rivando-2-4.png">
+  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/rivando-2-4.PNG">
 
 <p>Now let’s move over to TimeMapper and put this data to use.</p>
 <ol>
