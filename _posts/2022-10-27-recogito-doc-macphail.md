@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Documentation: Recognito"
-categories: [ DH, documentation, recognito ]
+title:  "Documentation: Recogito"
+categories: [ DH, documentation, recogito ]
 image: assets/images/1.jpg
 author: Kaeleigh
 
@@ -63,14 +63,14 @@ h3 {
 <body>
 
 <div class="tab btn">
-  <button type="button" class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">What is Recognito?</button>
+  <button type="button" class="tablinks" onclick="openCity(event, 'London')" id="defaultOpen">What is Recogito?</button>
   <button class="tablinks" onclick="openCity(event, 'Paris')">Getting Started</button>
   <button class="tablinks" onclick="openCity(event, 'Tokyo')">Features</button>
    <button class="tablinks" onclick="openCity(event, 'Toronto')">Examples</button>
 </div>
 
 <div id="London" class="tabcontent">
-  <h3>What is Recognito?</h3>
+  <h3>What is Recogito?</h3>
   <p>Recogito is an open-source software developed by the Pelagios Network. It is an annotation tool that allows users to add annotations to text, image, or spreadsheet files.
 
 Recogito can be accessed at: <a href="https://recogito.pelagios.org/">https://recogito.pelagios.org/</a>
@@ -114,7 +114,7 @@ Recogito can be accessed at: <a href="https://recogito.pelagios.org/">https://re
 
 <sup>Fig.5 Main navigation bar</sup>
 
-<h4>Map view</h4>
+<h4>Map View</h4>
 <p>If an annotation is identified as a Place, it will be added to the Map view.</p>
   <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-6.png">
 
@@ -155,15 +155,18 @@ This example will demonstrate how to use NER in Recogito. We will start by uploa
 <ol>
 <li>In your personal workspace, click the New button then select From RISE Repository.</li>
 <li>Scroll down and click on the MPIWG – A Multilingual Data Set of Novels collection.</li>
-<li>Type “pride” into the search bar and click Search. <br>  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-9.png"></li>
+<li>Type “pride” into the search bar and click Search. <br>  <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-9.png"><sup>Fig.9 Search Form in RISE Repository</sup>
+</li>
 <li>Select the resource named “Prideand Prejudice” and check the box under Sections. Click the Load button in the upper right corner. It may take several minutes to upload.</li>
-<li>Once uploaded, the new text file will appear under My Documents. Click it once to select it and open the Options drop-down menu. Choose Named Entity Recognition.<br><img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-10.png"></li>
+<li>Once uploaded, the new text file will appear under My Documents. Click it once to select it and open the Options drop-down menu. Choose Named Entity Recognition.<br><img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-10.png"><sup>Fig.10 Options Drop-down Menu</sup>
+</li>
 <li>For the purposes of this example, we will use the Stanford CoreNLP (en) engine to perform the NER analysis. Select it from the list of Recognition Engines then scroll down and click Start NER. This may take several minutes.</li>
-<li>Once the analysis is complete, double-click on the Pride and Prejudice text file to open it. Approximately 4184 annotations should be added, including names of people and places. Scroll down the document and select an annotation to view its details. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-11.png"></li>
+<li>Once the analysis is complete, double-click on the Pride and Prejudice text file to open it. Approximately 4184 annotations should be added, including names of people and places. Scroll down the document and select an annotation to view its details. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-11.png"><sup>Fig.11 Annotation Labelling “Bennet” as a Person in Text File</sup>
+</li>
 
 </ol>
 
-<h4>Example 2: Relatons</h4>
+<h4>Example 2: Relations</h4>
   <p>Relations can be used to make connections between annotations. This can be useful for making connections between people, places, and/or events within the cultural data. The following example will demonstrate how to add Relations and export them as a CSV node and edge list which can be visualized using the software Gephi. If you wish to complete steps 7-9 of the example, ensure Gephi is installed on your computer (https://gephi.org/users/download/).
 </p>
 <p>For this example, we will continue using the Pride and Prejudice text file that was annotated using NER in Example 1 (please complete Example 1 before proceeding with this example).</p>
@@ -172,12 +175,15 @@ This example will demonstrate how to use NER in Recogito. We will start by uploa
 <li>In your workspace, double-click the Pride and Prejudice text file under My Documents to open it.</li>
 <li>On your keyboard, press CTRL+F and type “Lizzy” into the search box. Go to the first instance of the name.</li>
 <li>In the Annotation mode bar, select Relations.</li>
-<li>Select the first instance of “Lizzy” then select the name “Jane”. Type “Sisters” into the box that appears. Click the checkmark to save. <br><img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-12.png"></li>
+<li>Select the first instance of “Lizzy” then select the name “Jane”. Type “Sisters” into the box that appears. Click the checkmark to save. <br><img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-12.png"><sup>Fig.12 Relation Annotation Connecting “Jane” and “Lizzy”</sup>
+></li>
 <li>In the main navigation bar, choose Download options.</li>
 <li>Scroll down and download the Basic CSV file under the Relations heading.</li>
 <li>Open Gephi. Select File > Open and navigate to the downloaded CSV file to open it.</li>
-<li>In the import menu, click Next and Finish. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-13.png"></li>
-<li>The network showing the relationship between Lizzy and Jane will appear in the window. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-14.png"></li>
+<li>In the import menu, click Next and Finish. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-13.png"><sup>Fig.13 Gephi Import Menu</sup>
+</li>
+<li>The network showing the relationship between Lizzy and Jane will appear in the window. <br> <img src="https://raw.githubusercontent.com/fimsdhlib/fimsdhlib.github.io/main/assets/images/macphail-14.png"><sup>Fig.14 Gephi Network</sup>
+</li>
 
 </ol>
 
