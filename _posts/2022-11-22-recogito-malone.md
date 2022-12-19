@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tool Review: Recognito"
-categories: [ DH, review, recognito, gazetteer, ner, entity recognition ]
+title:  "Tool Review: Recogito"
+categories: [ DH, review, recognto, gazetteer, ner, entity recognition ]
 image: assets/images/5.jpg
 author: Toby
 

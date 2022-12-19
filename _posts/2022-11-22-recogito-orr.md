@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tool Review: Recognito"
-categories: [ DH, tutorial, recognito, gazetteer, ner ]
+title:  "Tool Review: Recogito"
+categories: [ DH, tutorial, recogito, gazetteer, ner ]
 image: assets/images/3.jpg
 author: Adrienne
 
